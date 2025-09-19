@@ -34,7 +34,6 @@ MoodSuggestions.java
 ### 2️⃣ Compile the Project
 Open a terminal or PowerShell in the project folder:
 javac -cp ".;sqlite-jdbc-3.50.3.0.jar" src/*.java
-````
 
 ### 3️⃣ Run the Project
 java -cp ".;sqlite-jdbc-3.50.3.0.jar;src" Main
