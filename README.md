@@ -1,6 +1,6 @@
 # Smart Habit Tracker
 
-A **Java Swing** desktop application to track daily habits and moods, storing data in an **SQLite database** with smart suggestions based on mood patterns.
+A **Java Swing** desktop application to track daily habits and moods, storing data in an **SQLite database** with smart suggestions based on mood patterns. This is made from Java.
 
 ## Features
 - **Add Habits**: Store and manage your daily habits in a local SQLite database.
